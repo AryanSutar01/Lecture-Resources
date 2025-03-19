@@ -1,4 +1,4 @@
-#📌 Lecture Notes & Code Repository
+📌 Lecture Notes & Code Repository 
 Welcome to my repository! 🚀 This repository contains all the lecture notes, example codes, and resources that I have taught or explored while learning and sharing knowledge.
 
 📂 Contents
