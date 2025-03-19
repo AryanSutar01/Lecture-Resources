@@ -1,0 +1,27 @@
+💡 Coding Challenge: 
+Write a C program that generates a password using an email and phone number.  
+
+📌 Requirements:
+  
+🔹 Take 2 inputs from the user:  
+       - Email (max 50 characters)  
+       - Phone number (max 10 characters)  
+
+🔹 The password should be:  
+       - First 4 characters of the email ✉  
+       - First 5 digits of the phone number 📞  
+
+🔹 Use *fgets()* for input safety (avoid scanf()).  
+🔹 Use *string.h* functions (strncpy, strncat).  
+
+📌 Example:  
+👉 Input:  
+
+Enter the email: oysterkode@gmail.com  
+Enter the phone number: 9876543210  
+
+👉 Output:  
+
+Your password is: oyst98765  
+  
+Waiting for your solutions! ⏳💻
